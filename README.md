@@ -1,5 +1,5 @@
 # Price-prediction-project---Thesis
-
+# PREDICTING THE FUTURE PRICE OF FOREX MARKET WITH MACHINE LEARNING DEEP LEARNING ALGORITHM CALLED LSTM NEURAL NETWORK
 
 Achieving this will take the process below:
 
